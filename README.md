@@ -14,6 +14,4 @@ Cybersecurity, hand-washing skills, and suicide prevention are all vital aspects
 
 
 - This is sampled from “Anatomy-Game” on ksu-hmi GitHub, which tests knowledge for different anatomy systems (Sykes, 2019). 
-
-
-Sykes, R. (2019). Anatomy-Game. GitHub. https://github.com/ksu-hmi/Anatomy-Game
+- Sykes, R. (2019). Anatomy-Game. GitHub. https://github.com/ksu-hmi/Anatomy-Game
