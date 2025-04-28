@@ -11,3 +11,5 @@
 - [ ] Finish the quiz code by adding the questions/scenarios into the code.
 - [ ] Add calculations and completion lines into the code.
 - [ ] Finalize the code.
+- [ ] Review and update the README file with references used to help brainstorm questions
+      
