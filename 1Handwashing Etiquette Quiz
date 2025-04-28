@@ -33,14 +33,14 @@ b. Call the ambulance to drive him to the restaurant \n
 c. Wash his foot because the bandage made his foot stinky \n
 d. Wash the old bandages before throwing them away \n")
 
-q6 = ("6.	Tiffany has a stomach virus. She felt the need to have a bowel movement, so 
+q6 = ("Tiffany has a stomach virus. She felt the need to have a bowel movement, so 
 before making sandwiches for a workplace potluck, she went into a bathroom stall 
 for about five minutes. Without any bowel movement, Tiffany left the stall and went 
 to the kitchen, put on gloves, and began making sandwiches. What mistake did Tiffany make? \n
-a.	She did not wash her hands; this is not that important because she put gloves on. As long as gloves are on, germs will not get in the food. \n
-b.	She did not wash her hands; this is important because her hands could become sweaty or dry depending on the glove, which is uncomfortable for many. \n
-c.	She did not wash her hands; this is important because gloves can still transfer germs to the food, split open, and cross-contaminate. \n
-d.	Her gloves were not on before going into the stall. \n")
+a. She did not wash her hands; this is not that important because she put gloves on. As long as gloves are on, germs will not get in the food. \n
+b. She did not wash her hands; this is important because her hands could become sweaty or dry depending on the glove, which is uncomfortable for many. \n
+c. She did not wash her hands; this is important because gloves can still transfer germs to the food, split open, and cross-contaminate. \n
+d. Her gloves were not on before going into the stall. \n")
 
 q7 = ("What is an efficient way to turn the water off once you have finished washing your hands 
 to prevent germs from getting on your hands? \n
@@ -59,10 +59,10 @@ q9 = ("While making a salad for his party, Josh gets a text message from his fia
 He quickly adds the rest of the chopped lettuce and carrots to his serving bowl and grabs his cell phone. 
 Josh spends 4 minutes texting with his fiancée before placing his phone on the counter
 and generously combining the salad with his hands. Josh made a mistake here. What did he do wrong? \n
-a.	After he put his phone down, he did not turn it off to avoid further distractions \n
-b.	He did not wash his hands before continuing to combine his salad \n
-c.	He did not wash his hands before responding to his fiancée \n
-d.	After putting his phone down, he did not wipe his hands with a clean napkin \n")
+a. After he put his phone down, he did not turn it off to avoid further distractions \n
+b. He did not wash his hands before continuing to combine his salad \n
+c. He did not wash his hands before responding to his fiancée \n
+d. After putting his phone down, he did not wipe his hands with a clean napkin \n")
 
 q10 = ("What kind of soap works to get germs, toxins, and dirt off of your hands? \n
 a. Hand soap \n
@@ -72,13 +72,13 @@ d. All the above \n")
 
 
 #Answers
-a1 = (" b. Clapping your hands together \n")
-a2 = ("c.	15-30 seconds \n")
-a3 = ("d.	Soap and running water \n")
-a4 = ("d.	All the above \n")
-a5 = ("a.	Wash his hands after throwing away his old bandages \n")
-a6 = ("c.	She did not wash her hands; this is important because gloves can still transfer germs to the food, split open, and cross-contaminate. \n")
-a7 = ("d.	Both A and C \n")
-a8 = ("a.	Wet your hands first. You need water to help the soap trap and lift the germs. \n")
+a1 = ("b. Clapping your hands together \n")
+a2 = ("c. 15-30 seconds \n")
+a3 = ("d. Soap and running water \n")
+a4 = ("d. All the above \n")
+a5 = ("a. Wash his hands after throwing away his old bandages \n")
+a6 = ("c. She did not wash her hands; this is important because gloves can still transfer germs to the food, split open, and cross-contaminate. \n")
+a7 = ("d. Both A and C \n")
+a8 = ("a. Wet your hands first. You need water to help the soap trap and lift the germs. \n")
 a9 = ("b. He did not wash his hands before continuing to combine his salad \n")
 a10 = ("d. All the above \n")
