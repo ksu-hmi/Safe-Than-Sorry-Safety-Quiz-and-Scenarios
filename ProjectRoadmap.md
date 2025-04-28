@@ -6,7 +6,7 @@
 - [x] Create file questions and scenarios for basic suicide prevention.
 - [x] Create file questions and scenarios for proper hand washing skills.
 - [x] Create file questions and scenarios for basic cybersecurity.
-- [ ] Add questions and answers under each quiz file
+- [x] Add questions and answers under each quiz file
 - [ ] Create the introduction area of the Quiz code.
 - [ ] Finish the quiz code by adding the questions/scenarios into the code.
 - [ ] Add calculations and completion lines into the code.
