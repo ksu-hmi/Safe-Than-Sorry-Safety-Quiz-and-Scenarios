@@ -1,1 +1,77 @@
+#Questions
+q1 = ("What does CPR stand for? \n
+a. Cardiovascular Revival \n
+b. Cardiovascular Resuscitation \n
+c. Cardiopulmonary Revival \n
+d. Cardiopulmonary Resuscitation \n")
+
+q2 = ("Why is CPR important? \n
+a. It keeps blood flow active when someone's breathing or heart stopped \n
+b. It tells individuals how to survive in toxic air \n
+c. It helps the person keep calm until the police \n
+d. It helps the ambulance manage their time better \n")
+
+q3 = ("Which of the following cases is an example of when CPR would be used? \n
+a. Twisted ankle \n
+b. Drowned \n
+c. Heart stopped \n
+d. Both B and C \n")
+
+q4 = ("When giving CPR to a human or pet (cat and dog), how many chest compressions and rescue breaths are needed at the rate of 100 to 120/min? 
+a. 10 compressions, 6 breaths \n
+b. 20 compressions, 1 breath \n
+c. 15 compressions, 3 breaths \n
+d. 30 compressions, 2 breaths \n")
+
+q5 = ("If you are giving CPR and do not want to put your mouth on the person’s mouth, what is the next best thing to do? \n
+a. Walk away and wait for someone to see the situation \n
+b. Do hands-only CPR with only chest compressions \n
+c. Comfort the person by giving them water \n
+d. Grab any valuables to help identify them \n")
+
+q6 = ("For the average adult, how deep into the chest should compressions go? \n
+a. 2 inches \n
+b. 4 inches \n
+c. 0.5 inches \n
+d. 3 inches \n")
+
+q7 = ("How deep should compressions go for children and babies? \n
+a. Baby is 0.5 inches while child is 1 inch \n
+b. Both baby and child are about 2 inches \n
+c. Baby is 1 inch while child is 2 inches \n
+d. Baby is 1.5 inches while child is about 2 inches \n")
+
+q8 = ("CPR should be performed on what kind of surface? \n
+a. Mud \n
+b. Soft bed \n
+c. Hard surface \n
+d. Pillow \n")
+
+q9 = ("Before beginning CPR, what should you do? \n
+a. Find a first aid kit and open it \n
+b. Check the environment to ensure safety and call 911 \n
+c. Secure the area off from other people \n
+d. Wait for he person to say they are well \n")
+
+q10 = ("Lee is walking out of his office when he finds that the coworker is unresponsive, not breathing, and has no 
+pulse. Lee is alone and confident in performing CPR, but forgot how his hands should be placed for 
+compression. How should Lee form his hands to do chest compressions? \n
+a. One hand with a fist over the chest and the other flat on the person's stomach \n
+b. Both hands stacked, with the fingers interlaced and the palms facing down flat on the chest, arms straight, pressing straight down \n
+c. One hand on the chest, with the fingers of the other hand pointing down to help apply pressure and keep the other hand steady \n
+d. One hand with a fist so that the knuckles punch the chest hard to jumpstart the heart \n")
+
+
+#Answers
+a1 = ("d. Cardiopulmonary Resuscitation \n")
+a2 = ("a. It keeps blood flow active when someone's breathing or heart stopped \n")
+a3 = ("d. Both B and C \n")
+a4 = ("d. 30 compressions, 2 breaths \n")
+a5 = ("b. Do hands-only CPR with only chest compressions \n")
+a6 = ("a. 2 inches \n")
+a7 = ("d. Baby is 1.5 inches while child is about 2 inches \n")
+a8 = ("c. Hard surface \n")
+a9 = ("b. Check the environment to ensure safety and call 911 \n")
+a10 = ("b. Both hands stacked, with the fingers interlaced and the palms facing down flat on the chest, arms straight, pressing straight down \n")
+
 
