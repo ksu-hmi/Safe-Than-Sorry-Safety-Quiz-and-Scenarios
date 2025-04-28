@@ -7,7 +7,7 @@ a. Cardiovascular Revival \n
 b. Cardiovascular Resuscitation \n
 c. Cardiopulmonary Revival \n
 d. Cardiopulmonary Resuscitation \n",
-
+ 
 "Why is CPR important? \n
 a. It keeps blood flow active when someone's breathing or heart stopped \n
 b. It tells individuals how to survive in toxic air \n
@@ -317,15 +317,15 @@ answers = [
 
 
     # Suicide #
-["a. Allow Matt to talk openly about his feelings. Fred should listen and encourage professional help \n")
-"d. 988 \n")
-"d. All the above \n")
-"b. Reduce access to lethal places by inviting Gabby to stay over her house, essentially keeping her away from weapon shops. \n")
-"c. Question, Persuade, Refer \n")
-"a. Talk with a therapist or friend \n")
-"b. The act and result of ending your own life \n")
-"c. Wait for them to show signs of feeling a little better before talking to them again \n")
-"b. Someone saying that they are not thinking about suicide while showing no obvious signs of suicide ideation. \n")
+["a. Allow Matt to talk openly about his feelings. Fred should listen and encourage professional help \n",
+"d. 988 \n",
+"d. All the above \n",
+"b. Reduce access to lethal places by inviting Gabby to stay at her house, essentially keeping her away from weapon shops. \n",
+"c. Question, Persuade, Refer \n",
+"a. Talk with a therapist or friend \n",
+"b. The act and result of ending your own life \n",
+"c. Wait for them to show signs of feeling a little better before talking to them again \n",
+"b. Someone saying that they are not thinking about suicide while showing no obvious signs of suicide ideation. \n",
 "d. Both A and C \n"] 
 ]  
 
