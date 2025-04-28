@@ -1,1 +1,80 @@
+##Questions
+q1 = ("Matt and Fred sit in the kitchen talking about their favorite ice cream and joking around. 
+Suddenly, Matt mentions that he has been thinking about suicide. What is the best course of action for Fred to take? \n
+a.	Allow Matt to talk openly about his feelings. Fred should listen and encourage professional help \n
+b.	Tell Matt to stop thinking like that and continue eating to keep his mind off of his thoughts \n
+c.	Laugh it off because Fred knows Matt wouldn’t do that to him and his close friends and family \n
+d.	Storm out of the kitchen so Matt knows Fred is disappointed in him \n")
 
+q2 = ("As of 2025, what is the current 24/7 Suicide Crisis and Lifeline to call or text? \n
+a.  911 \n
+b.  900 \n
+c.	933 \n
+d.	988 \n")
+
+q3 = ("What are some risk factors that increase the likelihood of suicide? \n
+a.	Bullying \n
+b.	Family history of suicide \n
+c.	Previous attempts \n
+d.	All the above \n")
+
+q4 = ("Sara’s friend Gabby has recently expressed thoughts about suicide 
+and 'wanting out'. Sara lives 2 hours away but knows that Gabby lives down the 
+street from a weapon shop and a large community fishing pond. Sara is cautious of 
+Gabby’s choices and wants to be there for her. What could Sara do to help Gabby? \n
+a.	Call Gabby every hour and monitor her by getting neighbors involved \n
+b.	Reduce access to lethal places by inviting Gabby to stay at her house, essentially keeping her away from weapon shops. \n
+c.	Call 911 to check up on her 3x a day until she feels better. This way, Gabby will be 
+monitored and have immediate help if she needs it. \n
+d.	Tell Gabby how busy she is, but make it known she can reach out in an emergency. \n")
+
+q5 = ("The acronym QPR represents the steps to help prevent cases of suicide. What does QPR stand for? \n
+a.	Quick Prevention Response \n
+b.	Quick Preventative Reasoning \n
+c.	Question, Persuade, Refer \n
+d.	Question, Protect, Respond \n")
+
+q6 = ("What are ways to help yourself if you feel that you are having thoughts of suicide?
+a.	Talk with a therapist or friend \n
+b.	Keep it to yourself to not burden others \n
+c.	Quit your job and stay at home \n
+d.	Clean up your living space \n")
+
+q7 = ("What is suicide? \n
+a.	Harming yourself with without reaching death \n
+b.	The act and result of ending your own life  \n
+c.	An airborne disease \n
+d.	Extreme bouts of sadness and anger \n")
+
+q8 = ("What should you not do if you know someone is planning to commit suicide? \n
+a.	Ask them if they are thinking about killing or hurting themselves \n
+b.	Encourage them to talk to someone from their support group or a professional \n
+c.	Wait for them to show signs of feeling a little better before talking to them again \n
+d.	Spend time with them and offer to accompany them to talk to someone if they don’t want to do it alone \n")
+
+q9 = ("Which is likely not a sign that someone is considering suicide \n
+a.	Self-harm \n
+b.	Someone saying that they are not thinking about suicide while showing no obvious signs of suicide ideation. \n
+c.	Someone talking about being a burden to everyone and not wanting to live \n
+d.	Both A and C \n")
+
+q10 = ("Which of the following is not helpful when speaking to someone who has been 
+going through a rough event and is opening up about their heavy feelings? \n
+a.	Active listening and empathy \n
+b.	Disappointment and anger \n
+c.	Annoyance and regret \n
+d.	Both A and C \n")
+
+
+##Answers
+a1 = ("a.	Allow Matt to talk openly about his feelings. Fred should listen and encourage professional help \n")
+a2 = ("d.	988 \n")
+a3 = ("d.	All the above \n")
+a4 = ("b.	Reduce access to lethal places by inviting Gabby to stay over her house, 
+essentially keeping her away from weapon shops. \n")
+a5 = ("c.	Question, Persuade, Refer \n")
+a6 = ("a.	Talk with a therapist or friend \n")
+a7 = ("b.	The act and result of ending your own life \n")
+a8 = ("c.	Wait for them to show signs of feeling a little better before talking to them again \n")
+a9 = ("b. Someone saying that they are not thinking about suicide while showing no obvious signs of suicide ideation. \n")
+a10 = ("d.	Both A and C \n")
