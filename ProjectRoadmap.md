@@ -2,11 +2,11 @@
 - [x] Explore Github for trivia repository codes and run them in VSC to test them.
 - [x] Create repository for Safe-Than-Sorry in HMI organization.
 - [x] Create README and ProjectRoadmap files.
-- [ ] Create file questions and senarios for untrained CPR section.
-- [ ] Create file questions and scenarios for basic suicide prevention.
-- [ ] Create file questions and scenarios for proper hand washing skills.
+- [x] Create file questions and scenarios for CPR section.
+- [x] Create file questions and scenarios for basic suicide prevention.
+- [x] Create file questions and scenarios for proper hand washing skills.
 - [ ] Create file questions and scenarios for basic cybersecurity.
 - [ ] Create the introduction area of the Quiz code.
 - [ ] Finish the quiz code by adding the questions/scenarios into the code.
-- [ ] Add caluclations and completion lines into the code.
+- [ ] Add calculations and completion lines into the code.
 - [ ] Finalize the code.
