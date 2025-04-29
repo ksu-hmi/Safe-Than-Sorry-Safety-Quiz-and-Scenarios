@@ -1,6 +1,5 @@
 # Safe-Than-Sorry-Safety-Quiz-and-Scenarios
 
--note
 This program is a safety training quiz that tests users' knowledge about cybersecurity, hand-washing skills, suicide prevention, and CPR topics.
 
 CONTENT WARNING: This project code includes sensitive topics related to suicide and mental health. If you are struggling or sensitive to these issues, please take necessary precautions and care for yourself. Consider seeking support from a friend, family, or professional. Need something more confidential? Please consider the Suicide & Crisis Lifeline. 
