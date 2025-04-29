@@ -431,6 +431,6 @@ def stop():
 
 def report():
     score = (points / 400) *100
-    print("REPORT: ",name,"has completed all 4 safety module trainings with a score of", score,"%. \n\n\n")
+    print("PROOF OF COMPLETION REPORT: ",name,"has completed all 4 safety module trainings with a score of", score,"%. \n\n\n")
 
 sts_intro()
