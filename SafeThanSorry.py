@@ -141,8 +141,8 @@ questions = [
     
 # Handwashing #
 ["Which of these moments is most likely NOT a time when it is necessary to "
-"wash your hands immediately after? \n\n "
-"a. Using a private or public bathroom \n"
+"wash your hands immediately after? \n\n"
+"a.Using a private or public bathroom \n"
 "b. Clapping your hands together \n"
 "c. Blowing your nose after you have sneezed \n"
 "d. Holding a frog that you found in a pond \n\n",
@@ -266,7 +266,7 @@ questions = [
 "c. Wait for them to show signs of feeling a little better before talking to them again \n"
 "d. Spend time with them and offer to accompany them to talk to someone if they don’t want to do it alone \n\n",
 
-"Which is likely not a sign that someone is considering suicide \n\n"
+"Which is likely not a sign that someone is considering suicide? \n\n"
 "a. Self-harm \n"
 "b. Someone saying that they are not thinking about suicide while showing no obvious signs of suicide ideation. \n"
 "c. Someone talking about being a burden to everyone and not wanting to live \n"
@@ -336,10 +336,10 @@ answers = [
 # code
 
 modules =["CPR",  "Cybersecurity", "Handwashing", "Suicide"]
-info = ["You have chosen to be tested on basic CPR knowledge using this CPR module of 10 questions." , 
-            "You have chosen to be tested on Cybersecurity practices and basic knowledge using this 10-question Cybersecurity module.",
-            "You are about to be tested on Handwashing Etiquette. There are 10 questions.", 
-            "You are about to be tested on Suicide Prevention and basic knowledge. There are 10 questions."]
+info = ["You are about to be tested on basic CPR knowledge using this 10-question CPR module of 10 questions.\n\n" , 
+        "You are about to be tested on Cybersecurity practices and basic knowledge using this 10-question Cybersecurity module.\n\n",
+        "You are about to be tested on Handwashing Etiquette using this 10-question Handwashing module.\n\n", 
+        "You are about to be tested on Suicide Prevention using this 10-question prevention module. \n\n"]
   
 points = 0
 name = ""
@@ -352,33 +352,33 @@ def new_test():
     name = ""
 ####
 def sts_intro():
-    print("\n\n SAFE THAN SORRY: SAFETY QUIZ AND TRIVIA \n\n")
+    print("\n\n SAFE THAN SORRY: SAFETY QUIZ AND SCENARIOS \n\n")
     global name
     global module
 
     while name == "":
-        name = input("Please enter you name or a nickname for yourself: ")
-        print("Hello ", name, "!! Here is a list of the safety modules you can choose to be tested on:")
+        name = input("Please enter your full name or recognizable nickname: ").title()
+        print("Hello",name,"! Here is a list of four important safety modules you will be tested on: ")
 
         list_modules() 
         quiz_set()  
 
- 
-def current_grading(x):
-    global points
-    print("Your current score for this module is at", points)
-    print ("---------------------------------------------------------------")
-    print("Question", x+1)
-    
  ####
 def quiz_set() : 
-    quiz_set = int(input("Please choose a quiz module by typing a number : 1-4\n"))
+    quiz_set = int(input("Please begin a module by typing a number listed: \n"))
     if quiz_set == 0 : 
         stop()
-    else :
+        report()
+    else:
         print(info[quiz_set - 1])
         begin(quiz_set)
 
+def current_grading(x):
+    global points
+    print("Reminder: Complete ALL trainings before receiving your final report.\n" 
+          "Your current points for the trainings: ", points)
+    print ("---------------------------------------------------------------")
+    print("QUESTION", x+1)
  
 def begin(q) : 
     global module
@@ -396,10 +396,10 @@ def testing(x):
     global answers
     user = input(questions[module - 1][x])
     if user.lower() == answers[module - 1][x]:
-        print("CORRECT, you earned 10 points\n")
+        print("CORRECT, you earned 10 points")
         points += 10
     else:
-        print("INCORRECT you did not earn any points, the correct answer was:", answers[module - 1][x], "\n")
+        print("INCORRECT you did not earn any points, the correct answer was:", answers[module - 1][x])
     stop()
 
     next = len(questions[module - 1])
@@ -412,7 +412,7 @@ def testing(x):
         questions.pop(module - 1)
         answers.pop(module - 1)
         if len(modules) == 0 : 
-            stop()
+            report()
         else:
             list_modules() 
             quiz_set()
@@ -422,13 +422,15 @@ def go():
         current_grading(x)
         testing(x)
 ####
-potential_total = 400
-scoreP = float(points / potential_total) *100
-
 
 def stop():
-    print ( "\n\n QUIZ COMPLETION SUCCESSFUL \n")
-    print("\n\n", name,",you have completed modules having earned", points, "out of 400. \n")
-    print ( " YOUR GRADE FOR THIS MODULE IS: " , scoreP, "%")
+    print ("QUESTION PROGRESS SAVED.")
+    print("\n",name,", you have accumulated",points, "out of 400 points.")
+    score = (points / 400) *100
+    print ( " YOUR CURRENT GRADE: ", score, "% \n\n")
+
+def report():
+    score = (points / 400) *100
+    print("REPORT: ",name,"has completed all 4 safety module trainings with a score of", score,"%. \n\n\n")
 
 sts_intro()
