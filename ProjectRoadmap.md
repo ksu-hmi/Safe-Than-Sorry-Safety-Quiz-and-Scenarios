@@ -7,6 +7,7 @@
 - [x] Create file questions and scenarios for proper hand washing skills.
 - [x] Create file questions and scenarios for basic cybersecurity.
 - [x] Add questions and answers under each quiz file
+- [x] Start creating quiz code
 - [ ] Create the introduction area of the Quiz code.
 - [ ] Finish the quiz code by adding the questions/scenarios into the code.
 - [ ] Add calculations and completion lines into the code.
