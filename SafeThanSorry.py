@@ -329,4 +329,94 @@ answers = [
 "d. Both A and C \n"] 
 ]  
 
+ ##########################################################################################################################################################################
 
+# code
+
+modules =["CPR",  "Cybersecurity", "Handwashing", "Suicide"]
+info = ["You have chosen to be tested on basic CPR knowledge using this CPR module of 10 questions." , 
+            "You have chosen to be tested on Cybersecurity practices and basic knowledge using this 10-question Cybersecurity module.",
+            "You are about to be tested on Handwashing Etiquette. There are 10 questions.", 
+            "You are about to be tested on Suicide Prevention and basic knowledge. There are 10 questions."]
+  
+points = 0
+name = ""
+module = 0
+
+def new_test():
+    global points
+    global name
+    points = 0
+    name = ""
+####
+ def sts_intro():
+    print("\n\n SAFE THAN SORRY: SAFETY QUIZ AND TRIVIA \n\n")
+    global name
+    global module
+
+    while name == "":
+        name = input("Please enter you name or a nickname for yourself: ")
+        print("Hello "+name+"!! Here is a list of the safety modules you can choose to be tested on:")
+
+        list_modules() 
+        quiz()  
+
+ 
+ def current_grading(x):
+    global points
+    print("Your current score for this module is at", points)
+    print("Question", x+1, "\n")
+ ####
+def quiz() : 
+    quiz_set = int(input("Please choose a quiz module by typing a number (0 to exit) : 1-4\n"))
+    if quiz_set == 0 : 
+        stop()
+    else :
+        print(info[quiz_set - 1])
+        begin(quiz_set)
+
+ 
+def begin(q) : 
+    global module
+    module = q
+    go()
+
+def list_modules() : 
+  for m in modules : 
+      print(modules.index(m) + 1 , " : " , m)
+
+####
+def testing(x):
+    global points
+    global questions
+    global answers
+    user = input(questions[module - 1][x])
+    if user.lower() == answers[module - 1][x]:
+        print("CORRECT, you earned 10 points\n")
+        points +=10
+    else:
+        print("INCORRECT you did not earn any points, the correct answer was:", answers[module - 1][x], "\n")
+    next = len(questions[module - 1])
+    if x == next -1 : 
+        global modules
+        global info
+        
+        modules.pop(module - 1)
+        info.pop(module - 1)
+        questions.pop(module - 1)
+        answers.pop(module - 1)
+        if len(modules) == 0 : 
+            stop()
+        else:
+            list_modules() 
+            quiz()
+####
+def go():
+    for x in range(len(questions[module - 1])):
+        current_grading(x)
+        testing(x)
+####
+ def stop():
+    print ( "\n\n QUIZ COMPLETION SUCCESSFUL \n")
+    print("\n\n", name," You have completed this module having earned", points, "out of 100. \n")
+    print ( " YOUR GRADE FOR THE MODULE", quiz_set,"IS: " , points, "%")
