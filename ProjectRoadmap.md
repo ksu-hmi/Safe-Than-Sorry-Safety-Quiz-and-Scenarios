@@ -8,9 +8,9 @@
 - [x] Create file questions and scenarios for basic cybersecurity.
 - [x] Add questions and answers under each quiz file
 - [x] Start creating quiz code
-- [ ] Create the introduction area of the Quiz code.
-- [ ] Finish the quiz code by adding the questions/scenarios into the code.
-- [ ] Add calculations and completion lines into the code.
-- [ ] Finalize the code.
-- [ ] Review and update the README file with references used to help brainstorm questions
-      
+- [ ] Create the introduction area of the Quiz code for content warning and expected process.
+- [x] Finish the quiz code by adding the questions/scenarios into the code.
+- [x] Add calculations and completion lines into the code.
+- [x] Finalize the code.
+- [x] Test and finalize again in VSC
+- [ ] Review and update the README file with expected process/output and references used to help brainstorm questions
