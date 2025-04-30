@@ -16,5 +16,6 @@
 - [x] Review and update the README file with expected process/output and references used to help brainstorm questions
 - [x] Project Completed
 - [x] Create 1 splash screen for Sprint3
+- [x] Final touches to make repo presentable 
 
       
