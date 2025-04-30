@@ -1,74 +1,74 @@
 #Questions
-q1 = ("Which of these moments is most likely NOT a time when it is necessary to 
-wash your hands immediately after? \n 
-a. Using a private or public bathroom \n
-b. Clapping your hands together \n
-c. Blowing your nose after you have sneezed \n
-d. Holding a frog that you found in a pond \n")
+q1 = ("Which of these moments is most likely NOT a time when it is necessary to "
+"wash your hands immediately after? \n\n"
+"a. Using a private or public bathroom \n"
+"b. Clapping your hands together \n"
+"c. Blowing your nose after you have sneezed \n"
+"d. Holding a frog that you found in a pond \n\n")
 
-q2 = ("Ideally, how long should you wash/scrub your hands for? \n
-a. 10-12 seconds \n
-b. 2-5 minutes \n
-c. 15-30 seconds \n
-d. You don’t \n")
+q2 = ("Ideally, how long should you wash/scrub your hands for? \n\n"
+"a. 10-12 seconds \n"
+"b. 2-5 minutes \n"
+"c. 15-30 seconds \n"
+"d. You don’t \n\n")
 
-q3 = ("The process of washing hands is best done with what items? \n
-a. Soap and scalding hot water \n
-b. Three nickel sizes of hand sanitizer \n
-c. Warm water and 91% rubbing alcohol \n
-d. Soap and running water \n")
+q3 = ("The process of washing hands is best done with what items? \n\n"
+"a. Soap and scalding hot water \n"
+"b. Three nickel sizes of hand sanitizer \n"
+"c. Warm water and 91 percent rubbing alcohol \n"
+"d. Soap and running water \n\n")
 
-q4 = ("When washing your hands is it important to scrub which parts? \n
-a. The front and back \n
-b. Under the nails \n
-c. Between the fingers \n
-d. All the above \n")
+q4 = ("When washing your hands is it important to scrub which parts? \n\n"
+"a. The front and back \n"
+"b. Under the nails \n"
+"c. Between the fingers \n"
+"d. All the above \n\n")
 
-q5 = ("Tommy has spent the past hour tending to a deep cut on his ankle. He 
-just finished changing the dirty bandages for new, clean bandages. He throws away the old 
-bandage and immediately walks to the closest buffet to get some food because he is hungry. 
-What has Tommy forgotten to do? \n
-a. Wash his hands after throwing away his old bandages \n
-b. Call the ambulance to drive him to the restaurant \n
-c. Wash his foot because the bandage made his foot stinky \n
-d. Wash the old bandages before throwing them away \n")
+q5 = ("Tommy has spent the past hour tending to a deep cut on his ankle. He "
+"just finished changing the dirty bandages for new, clean bandages. He throws away the old "
+"bandage and immediately walks to the closest buffet to get some food because he is hungry. "
+"What has Tommy forgotten to do? \n\n"
+"a. Wash his hands after throwing away his old bandages \n"
+"b. Call the ambulance to drive him to the restaurant \n"
+"c. Wash his foot because the bandage made his foot stinky \n"
+"d. Wash the old bandages before throwing them away \n\n")
 
-q6 = ("Tiffany has a stomach virus. She felt the need to have a bowel movement, so 
-before making sandwiches for a workplace potluck, she went into a bathroom stall 
-for about five minutes. Without any bowel movement, Tiffany left the stall and went 
-to the kitchen, put on gloves, and began making sandwiches. What mistake did Tiffany make? \n
-a. She did not wash her hands; this is not that important because she put gloves on. As long as gloves are on, germs will not get in the food. \n
-b. She did not wash her hands; this is important because her hands could become sweaty or dry depending on the glove, which is uncomfortable for many. \n
-c. She did not wash her hands; this is important because gloves can still transfer germs to the food, split open, and cross-contaminate. \n
-d. Her gloves were not on before going into the stall. \n")
+q6 = ("Tiffany has a stomach virus. She felt the need to have a bowel movement, so "
+"before making sandwiches for a workplace potluck, she went into a bathroom stall "
+"for about five minutes. Without any bowel movement, Tiffany left the stall and went "
+"to the kitchen, put on gloves, and began making sandwiches. What mistake did Tiffany make? \n\n"
+"a. She did not wash her hands; this is not that important because she put gloves on. As long as gloves are on, germs will not get in the food. \n"
+"b. She did not wash her hands; this is important because her hands could become sweaty or dry depending on the glove, which is uncomfortable for many. \n"
+"c. She did not wash her hands; this is important because gloves can still transfer germs to the food, split open, and cross-contaminate. \n"
+"d. Her gloves were not on before going into the stall. \n\n")
 
-q7 = ("What is an efficient way to turn the water off once you have finished washing your hands 
-to prevent germs from getting on your hands? \n
-a. Use your elbow to hit the faucet handle \n
-b. Use your palm and fingers to turn the handle \n
-c. Dry your hands fully and use your napkin to turn the handle \n
-d. Both A and C \n")
+q7 = ("What is an efficient way to turn the water off once you have finished washing your hands "
+"to prevent germs from getting on your hands? \n\n"
+"a. Use your elbow to hit the faucet handle \n"
+"b. Use your palm and fingers to turn the handle \n"
+"c. Dry your hands fully and use your napkin to turn the handle \n"
+"d. Both A and C \n\n")
 
-q8 = ("What is the most effective first step to washing your hands, and why is it important? \n
-a. Wet your hands first. You need water to help the soap trap and lift the germs. \n
-b. Apply soap first. You need soap to lather up the germs so water can rinse it. \n
-c. Apply hand sanitizer first. This makes sure some of the germs are gone so you don’t have to scrub as hard. \n
-d. Look at the back and front of your hands first. This shows you where you need to pay the most attention. \n")
+q8 = ("What is the most effective first step to washing your hands, and why is it important? \n\n"
+"a. Wet your hands first. You need water to help the soap trap and lift the germs. \n"
+"b. Apply soap first. You need soap to lather up the germs so water can rinse it. \n"
+"c. Apply hand sanitizer first. This makes sure some of the germs are gone so you don’t have to scrub as hard. \n"
+"d. Look at the back and front of your hands first. This shows you where you need to pay the most attention. \n\n")
 
-q9 = ("While making a salad for his party, Josh gets a text message from his fiancée. 
-He quickly adds the rest of the chopped lettuce and carrots to his serving bowl and grabs his cell phone. 
-Josh spends 4 minutes texting with his fiancée before placing his phone on the counter
-and generously combining the salad with his hands. Josh made a mistake here. What did he do wrong? \n
-a. After he put his phone down, he did not turn it off to avoid further distractions \n
-b. He did not wash his hands before continuing to combine his salad \n
-c. He did not wash his hands before responding to his fiancée \n
-d. After putting his phone down, he did not wipe his hands with a clean napkin \n")
+q9 = ("While making a salad for his party, Josh gets a text message from his fiancée. "
+"He quickly adds the rest of the chopped lettuce and carrots to his serving bowl and grabs his cell phone. "
+"Josh spends 4 minutes texting with his fiancée before placing his phone on the counter"
+"and generously combining the salad with his hands. Josh made a mistake here. What did he do wrong? \n\n"
+"a. After he put his phone down, he did not turn it off to avoid further distractions \n"
+"b. He did not wash his hands before continuing to combine his salad \n"
+"c. He did not wash his hands before responding to his fiancée \n"
+"d. After putting his phone down, he did not wipe his hands with a clean napkin \n\n")
 
-q10 = ("What kind of soap works to get germs, toxins, and dirt off of your hands? \n
-a. Hand soap \n
-b. Body soap \n
-c. Liquid and bar soap \n
-d. All the above \n")
+q10 = ("What kind of soap works to get germs, toxins, and dirt off of your hands? \n\n"
+"a. Hand soap \n"
+"b. Body soap \n"
+"c. Liquid and bar soap \n"
+"d. All the above \n\n")
 
 
 #Answers
