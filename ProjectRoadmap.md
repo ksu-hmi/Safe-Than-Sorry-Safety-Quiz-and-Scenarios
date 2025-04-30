@@ -15,6 +15,6 @@
 - [x] Test and finalize again in VSC
 - [x] Review and update the README file with expected process/output and references used to help brainstorm questions
 - [x] Project Completed
+- [x] Create 1 splash screen for Sprint3
 
-Now I create PPT and present
       
