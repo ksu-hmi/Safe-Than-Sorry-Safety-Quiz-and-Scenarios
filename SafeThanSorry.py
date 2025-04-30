@@ -106,7 +106,7 @@ questions = [
 "d. GardensGo is shortened to GG. A regular company does not shorten its name in email addresses. \n\n",
 
 "Which is the best way to erase or minimize your cyber footprint on public computers? \n\n"
-"a. Log out of all your accounts and delete website cache and history \n "
+"a. Log out of all your accounts and delete website cache and history \n"
 "b. Keep location access enabled when browsing online \n"
 "c. Keep unused accounts open, so that you don’t lose access to account benefits \n"
 "d. Use the same email address and password for every account so that you don’t forget it. \n\n",
@@ -128,7 +128,7 @@ questions = [
 "You just downloaded a new word search game onto your device. It is asking for "
 "permission to access your contacts, camera, photos, microphone, and location. What should you do? \n\n"
 "a. Delete the app or deny access if they are not needed for the app to work \n"
-"b. allow access to them for a small amount of time \n"
+"b. Allow access to them for a small amount of time \n"
 "c. Allow access to the requests \n"
 "d. Both B and C \n\n",
 
@@ -142,7 +142,7 @@ questions = [
 # Handwashing #
 ["Which of these moments is most likely NOT a time when it is necessary to "
 "wash your hands immediately after? \n\n"
-"a.Using a private or public bathroom \n"
+"a. Using a private or public bathroom \n"
 "b. Clapping your hands together \n"
 "c. Blowing your nose after you have sneezed \n"
 "d. Holding a frog that you found in a pond \n\n",
