@@ -1,73 +1,73 @@
 #Questions
-q1 = ("Which is the best definition of cybersecurity? \n
-a. The steps taken to physically protect computers and devices from people \n
-b. The practice of protecting systems, networks, and forms of data from digital attacks \n
-c. The way a computer is designed to retrieve an online connection when no wi-fi signal is available. \n
-d. How one central computer can connect to many different computers and update them all. \n")
+q1 = ("Which is the best definition of cybersecurity? \n\n"
+"a. The steps taken to physically protect computers and devices from people \n"
+"b. The practice of protecting systems, networks, and forms of data from digital attacks \n"
+"c. The way a computer is designed to retrieve an online connection when no wi-fi signal is available. \n"
+"d. How one central computer can connect to many different computers and update them all. \n\n")
 
-q2 = ("What is something you could do to prevent cyber-attacks? \n
-a. Keep your devices and software updated regularly \n
-b. Create strong passwords \n
-c. Use two-step verification \n
-d. All the above \n")
+q2 = ("What is something you could do to prevent cyber-attacks? \n\n"
+"a. Keep your devices and software updated regularly \n"
+"b. Create strong passwords \n"
+"c. Use two-step verification \n"
+"d. All the above \n\n")
 
-q3 = ("Finn fears that someone may have access to his Email account because he accidentally left
-a sticky note with this information sitting next to a library computer. He wants to create a new 
-password. Which of the following is the best password he should choose? \n
-a. NotMyGmail! \n
-b. n0tmy-gma.1l \n
-c. Gm@il.HeLp \n
-d. no-.Mg_25.G#Lx! \n")
+q3 = ("Finn fears that someone may have access to his Email account because he accidentally left"
+"a sticky note with this information sitting next to a library computer. He wants to create a new "
+"password. Which of the following is the best password he should choose? \n\n"
+"a. NotMyGmail! \n"
+"b. n0tmy-gma.1l \n"
+"c. Gm@il.HeLp \n"
+"d. no-.Mg_25.G#Lx! \n\n")
 
-q4 = ("For the past five years, Emma has been shopping at GardensGo, a well-known plant shop in the Midwest. 
-Recently, she received an email from GGsirveys@gmail.com promising a $100,000 direct deposit if she follows 
-a link to a survey on how she feels about Earth Day. What should Emma do? \n
-a. Open the link in a different tab on her device, so she does not lose track of the original email \n
-b. Close and report the email \n
-c. Click the link and fill out her information \n
-d. See exactly what it is by clicking the link but not entering any information \n")
+q4 = ("For the past five years, Emma has been shopping at GardensGo, a well-known plant shop in the Midwest. "
+"Recently, she received an email from GGsirveys@gmail.com promising a $100,000 direct deposit if she follows "
+"a link to a survey on how she feels about Earth Day. What should Emma do? \n\n"
+"a. Open the link in a different tab on her device, so she does not lose track of the original email \n"
+"b. Close and report the email \n"
+"c. Click the link and fill out her information \n"
+"d. See exactly what it is by clicking the link but not entering any information \n\n")
 
-q5 = ("For the past five years, Emma has been shopping at GardensGo, a well-known plant shop
-in the Midwest. Recently, she received an email from GGsirveys@gmail.com promising a $100,000 
-direct deposit if she follows a link to a survey on how she feels about Earth Day. 
-What is it about Emma’s situation that raises suspicion about a cyberattack? \n
-a. The Gmail address looks suspicious due to spelling errors that some people may overlook. \n
-b. The guarantee of a large amount of money. If it is too good to be true, it probably is. \n
-c. Both A and B \n
-d. GardensGo is shortened to GG. A regular company does not shorten its name in email addresses. \n")
+q5 = ("For the past five years, Emma has been shopping at GardensGo, a well-known plant shop"
+"in the Midwest. Recently, she received an email from GGsirveys@gmail.com promising a $100,000 "
+"direct deposit if she follows a link to a survey on how she feels about Earth Day. "
+"What is it about Emma’s situation that raises suspicion about a cyberattack? \n\n"
+"a. The Gmail address looks suspicious due to spelling errors that some people may overlook. \n"
+"b. The guarantee of a large amount of money. If it is too good to be true, it probably is. \n"
+"c. Both A and B \n"
+"d. GardensGo is shortened to GG. A regular company does not shorten its name in email addresses. \n\n")
 
-q6 = ("Which is the best way to erase or minimize your cyber footprint on public computers? \n
-a. Log out of all your accounts and delete website cache and history \n 
-b. Keep location access enabled when browsing online \n
-c. Keep unused accounts open, so that you don’t lose access to account benefits \n
-d. Use the same email address and password for every account so that you don’t forget it. \n")
+q6 = ("Which is the best way to erase or minimize your cyber footprint on public computers? \n\n"
+"a. Log out of all your accounts and delete website cache and history \n"
+"b. Keep location access enabled when browsing online \n"
+"c. Keep unused accounts open, so that you don’t lose access to account benefits \n"
+"d. Use the same email address and password for every account so that you don’t forget it. \n\n")
 
-q7 = ("John receives an email that appears to be from his bank, asking him to verify his account details 
-by clicking on a link. The email is marked with the highest priority, stating that his account will be 
-suspended in 30 minutes if no action is taken. What should he do? \n
-a. Click the link and provide the information, so he does not lose his money \n
-b. Use a public computer to open the message instead of his private devices \n
-c. Reply to the email asking questions about the status of his account \n
-d. Contact his bank directly to verify their request \n")
+q7 = ("John receives an email that appears to be from his bank, asking him to verify his account details "
+"by clicking on a link. The email is marked with the highest priority, stating that his account will be "
+"suspended in 30 minutes if no action is taken. What should he do? \n\n"
+"a. Click the link and provide the information, so he does not lose his money \n"
+"b. Use a public computer to open the message instead of his private devices \n"
+"c. Reply to the email asking questions about the status of his account \n"
+"d. Contact his bank directly to verify their request \n\n")
 
-q8 = ("Which is the best definition of Phishing? \n
-a. Consistently interacting with interesting links to personalize your algorithm on the internet \n
-b. Attackers sending malicious emails that resemble trusted sources in order to steal sensitive data \n
-c. A quick way to lose all of your online information \n
-d. A community-based library system that allows access to other people’s accounts and private information \n")
+q8 = ("Which is the best definition of Phishing? \n\n"
+"a. Consistently interacting with interesting links to personalize your algorithm on the internet \n"
+"b. Attackers sending malicious emails that resemble trusted sources in order to steal sensitive data \n"
+"c. A quick way to lose all of your online information \n"
+"d. A community-based library system that allows access to other people’s accounts and private information \n\n")
 
-q9 = ("You just downloaded a new word search game onto your device. It is asking for 
-permission to access your contacts, camera, photos, microphone, and location. What should you do? \n
-a. Delete the app or deny access if they are not needed for the app to work \n
-b. allow access to them for a small amount of time \n
-c. Allow access to the requests \n
-d. Both B and C \n")
+q9 = ("You just downloaded a new word search game onto your device. It is asking for "
+"permission to access your contacts, camera, photos, microphone, and location. What should you do? \n\n"
+"a. Delete the app or deny access if they are not needed for the app to work \n"
+"b. Allow access to them for a small amount of time \n"
+"c. Allow access to the requests \n"
+"d. Both B and C \n\n")
 
-q10 = ("Which is the best definition of Ransomware?
-a. A virus that allows you to connect to nearby Wi-Fi networks without a password \n
-b. A software that scans your device and tells you which websites are protected, and which are risky \n
-c. Software that corrupts someone’s files or system, then demands a payment in exchange for restoring access to those files \n
-d. The newest 2025 password manager software that businesses use to keep records of employee login information  \n")
+q10 = ("Which is the best definition of Ransomware? \n\n"
+"a. A virus that allows you to connect to nearby Wi-Fi networks without a password \n"
+"b. A software that scans your device and tells you which websites are protected, and which are risky \n"
+"c. Software that corrupts someone’s files or system, then demands a payment in exchange for restoring access to those files \n"
+"d. The newest 2025 password manager software that businesses use to keep records of employee login information  \n\n")
 
 
 #Answers
